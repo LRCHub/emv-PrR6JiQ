@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "星の詩 (Japanese Ver.)",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-02-11T19:05:15.284308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星の詩 - Japanese Ver.",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/01_星の詩_-_Japanese_Ver._TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星の詩 [Japanese Ver.]",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_星の詩_[Japanese_Ver.]_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
